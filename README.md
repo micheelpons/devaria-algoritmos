@@ -1,1 +1,0 @@
-# Repositório referente ao algoritimos do modo BD da Devaria
